@@ -1,0 +1,13 @@
+#jumbotron1 {
+  background: url("http://tinyurl.com/zmdmk7l") center center no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: 350px
+}
+
+#headText {
+  color: darkblack;
+  font-family: 'Lobster', cursive;
+  font-size:5em;
+  text-shadow: 3px 3px red;
+}
