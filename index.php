@@ -11,4 +11,4 @@
     <?php require_once("lib/partials/navbar.php"); ?>
 
   </body>
-</html>
+</html> 
