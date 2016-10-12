@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+}
+
+.jumbotron {
+  color: black;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/2/25/Terrestrial_planet_sizes.jpg")
+  background-size: cover;
+  height: 400px
+}
+
+p {
+  color: green;
+}
+
+.container {
+  color: black;
+}
+
+h2 {
+  color: orange;
+}
